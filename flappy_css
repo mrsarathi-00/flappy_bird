@@ -4,5 +4,5 @@ body {
 }
 
 #board {
-    background-image: url("../flappy_bird/flappybird.png");
+    background-image: url("../flappybirdbg.png");
 }
